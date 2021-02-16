@@ -1,7 +1,7 @@
 module.exports = {
-  defaultTitle: 'John Doe',
+  defaultTitle: 'rob4130',
   logo: 'https://portfolio.smakosh.com/favicon/favicon-512.png',
-  author: 'John Doe',
+  author: 'rob4130',
   url: 'https://portfolio.smakosh.com',
   legalName: 'Rob',
   defaultDescription: 'I’m Rob and I’m a Backend & Devops engineer!',

@@ -16,9 +16,7 @@ export const Skills = () => {
         </Thumbnail>
         <Details theme={theme}>
           <h1>More about me</h1>
-          <p>
-            My background is SEO/Digital Marketing but for the last couple of years I have been focused on JAMstack.
-          </p>
+          <p>My background is SEO/Digital Marketing but for the last couple of years have been focused on JAMstack.</p>
           <Button as={AnchorLink} href="#contact">
             Hire me
           </Button>
