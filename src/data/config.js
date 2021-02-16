@@ -3,8 +3,8 @@ module.exports = {
   logo: 'https://portfolio.smakosh.com/favicon/favicon-512.png',
   author: 'John Doe',
   url: 'https://portfolio.smakosh.com',
-  legalName: 'John Doe',
-  defaultDescription: 'I’m John and I’m a Backend & Devops engineer!',
+  legalName: 'Rob',
+  defaultDescription: 'I’m Rob and I’m a Backend & Devops engineer!',
   socialLinks: {
     twitter: 'http://www.twitter.com/smakosh',
     github: 'https://github.com/smakosh',

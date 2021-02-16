@@ -17,8 +17,7 @@ export const Skills = () => {
         <Details theme={theme}>
           <h1>More about me</h1>
           <p>
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-            industry’s standard dummy.
+            My background is SEO/Digital Marketing but for the last couple of years I have been focused on JAMstack.
           </p>
           <Button as={AnchorLink} href="#contact">
             Hire me
