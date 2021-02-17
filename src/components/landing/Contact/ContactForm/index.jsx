@@ -48,7 +48,7 @@ export default () => (
     }}
   >
     {({ values, touched, errors, setFieldValue, isSubmitting }) => (
-      <Form>
+      <Form data-netlify-recaptcha="true">
         <InputField>
           <Input
             as={FastField}
@@ -92,7 +92,7 @@ export default () => (
           <InputField>
             <FastField
               component={Recaptcha}
-              sitekey={process.env.GATSBY_PORTFOLIO_RECAPTCHA_KEY}
+              sitekey={process.env.SITE_RECAPTCHA_KEY}
               name="recaptcha"
               onChange={value => setFieldValue('recaptcha', value)}
             />

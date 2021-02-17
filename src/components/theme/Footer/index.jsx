@@ -7,16 +7,12 @@ export const Footer = () => (
   <Wrapper>
     <Flex as={Container}>
       <Details>
-        <h2>rob4130</h2>
         <span>
           © All rights are reserved | {new Date().getFullYear()} | Made with{' '}
           <span aria-label="love" role="img">
             💖
           </span>{' '}
-          by{' '}
-          <a href="" rel="noopener noreferrer" target="_blank">
-            rob4130
-          </a>
+          <a href="" rel="noopener noreferrer" target="_blank"></a>
         </span>
       </Details>
       <Links>
