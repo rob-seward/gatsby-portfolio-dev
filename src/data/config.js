@@ -6,8 +6,8 @@ module.exports = {
   legalName: 'Rob',
   defaultDescription: 'I’m Rob and I’m a Backend & Devops engineer!',
   socialLinks: {
-    twitter: 'http://www.twitter.com/rob4130',
-    github: 'https://github.com/smakosh',
+    twitter: '',
+    github: 'https://github.com/rob4130',
     linkedin: '',
     instagram: '',
     youtube: '',
@@ -18,7 +18,7 @@ module.exports = {
   backgroundColor: '#6b63ff',
   social: {
     facebook: 'appId',
-    twitter: '@smakosh',
+    twitter: '',
   },
   address: {
     city: 'City',
