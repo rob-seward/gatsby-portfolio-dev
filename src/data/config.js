@@ -4,7 +4,7 @@ module.exports = {
   author: 'rob4130',
   url: 'https://rob4130.dev',
   legalName: 'Rob',
-  defaultDescription: 'I’m Rob digital marketer and dev',
+  defaultDescription: 'I’m Rob ',
   socialLinks: {
     twitter: '',
     github: 'https://github.com/rob4130',
@@ -13,7 +13,7 @@ module.exports = {
     youtube: '',
     google: '',
   },
-  googleAnalyticsID: '',
+  googleAnalyticsID: 'UA-88875900-4',
   themeColor: '#6b63ff',
   backgroundColor: '#6b63ff',
   social: {
