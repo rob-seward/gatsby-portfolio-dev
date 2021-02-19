@@ -10,7 +10,7 @@ export const Footer = () => (
         <span>
           © All rights are reserved | {new Date().getFullYear()} | Made with{' '}
           <span aria-label="love" role="img">
-            💖
+            💖 smakosh
           </span>{' '}
           <a href="" rel="noopener noreferrer" target="_blank"></a>
         </span>

@@ -30,6 +30,7 @@ export const Details = styled.div`
 
   h1 {
     margin-bottom: 2rem;
+
     font-size: 36pt;
     color: ${({ theme }) => (theme === 'light' ? '#212121' : '#fff')};
 
@@ -39,6 +40,9 @@ export const Details = styled.div`
 
     @media (max-width: 680px) {
       font-size: 30pt;
+      margin-left: 2rem;
+      margin-bottom: 0;
+      mix-blend-mode: ${({ theme }) => (theme === 'light' ? 'unset' : 'difference')};
     }
   }
 

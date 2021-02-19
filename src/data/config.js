@@ -1,10 +1,10 @@
 module.exports = {
   defaultTitle: 'rob4130',
-  logo: 'https://portfolio.smakosh.com/favicon/favicon-512.png',
+  logo: '',
   author: 'rob4130',
   url: 'https://rob4130.dev',
   legalName: 'Rob',
-  defaultDescription: 'I’m Rob and I’m a Backend & Devops engineer!',
+  defaultDescription: 'I’m Rob digital marketer and dev',
   socialLinks: {
     twitter: '',
     github: 'https://github.com/rob4130',
@@ -13,7 +13,7 @@ module.exports = {
     youtube: '',
     google: '',
   },
-  googleAnalyticsID: 'UA-88875900-4',
+  googleAnalyticsID: '',
   themeColor: '#6b63ff',
   backgroundColor: '#6b63ff',
   social: {

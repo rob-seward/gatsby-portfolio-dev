@@ -1,4 +1,5 @@
 import React from 'react';
+import { Button, Input } from 'components/common';
 
 export default function contact() {
   return (
@@ -20,7 +21,7 @@ export default function contact() {
         </label>
       </p>
       <p>
-        <button type="submit">Send</button>
+        <Button type="submit">Send</Button>
       </p>
     </form>
   );
