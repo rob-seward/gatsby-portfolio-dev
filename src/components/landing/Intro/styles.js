@@ -60,6 +60,10 @@ export const Details = styled.div`
       font-size: 26pt;
     }
   }
+
+  p {
+    margin-top: 20pt;
+  }
 `;
 
 export const Thumbnail = styled.div`

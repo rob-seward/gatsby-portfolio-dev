@@ -14,14 +14,18 @@ export const Intro = () => {
       <Header />
       <IntroWrapper as={Container}>
         <Details theme={theme}>
-          <h1>Hiya,</h1>
-          <h4>I’m Rob and I’m a digital marketer and JAMStack developer!</h4>
+          <h1>Thanks for your interest,</h1>
+          <h4>I'm Ecommerce specalist focusing on JAMStack technologies</h4>
           <Button as={AnchorLink} href="#contact">
             Message Me
           </Button>
+          <p>
+            Speed mean's higher converstion rates and better customer experience, starting in May Google will be ranking
+            faster sites higher.
+          </p>
         </Details>
         <Thumbnail>
-          <img src={dev} alt="I’m Rob and I’m a Digital Marketer and JAMStack developer!" />
+          <img src={dev} alt="Site speed first" />
         </Thumbnail>
       </IntroWrapper>
     </Wrapper>

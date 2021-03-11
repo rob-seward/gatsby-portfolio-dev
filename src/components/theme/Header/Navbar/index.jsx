@@ -11,7 +11,7 @@ const Navbar = () => {
   return (
     <Wrapper as={Container}>
       <Brand as={Link} to="/" theme={theme}>
-        rob4130
+        Rob Seward
       </Brand>
       <NavbarLinks desktop />
     </Wrapper>
