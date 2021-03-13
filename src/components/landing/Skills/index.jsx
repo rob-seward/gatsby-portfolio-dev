@@ -15,11 +15,9 @@ export const Skills = () => {
           <img src={dev} alt="" />
         </Thumbnail>
         <Details theme={theme}>
-          <h1>More about me</h1>
-          <p>
-            I've been working in agency's and digital team's for over 6 years with last 2 years focused on JAMstack as
-            an editor and now as a developer.
-          </p>
+          <h1>5+ Years experience agency side and in-house</h1>
+          <p>I’m currently looking for a new position</p>
+
           <Button as={AnchorLink} href="#contact">
             Message Me
           </Button>

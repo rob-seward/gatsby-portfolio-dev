@@ -15,7 +15,7 @@ export const Intro = () => {
       <IntroWrapper as={Container}>
         <Details theme={theme}>
           <h1>Thanks for your interest,</h1>
-          <h4>I'm an Ecommerce specalist focusing on JAMStack technologies</h4>
+          <h4>I'm an Ecommerce specalist focusd on JAMStack technologies</h4>
           <Button as={AnchorLink} href="#contact">
             Message Me
           </Button>
@@ -23,15 +23,15 @@ export const Intro = () => {
         <Thumbnail>
           <img src={dev} alt="Site speed first" />
         </Thumbnail>
+        <h3>
+          I've been working on Global Ecommerce platform built on JAMstack. It’s given me a great overview and deep
+          knowledge of the benefits and shortcomings in a real world FMCG B2C environment.
+        </h3>
         <p>
-          Speed mean's higher converstion rates and better customer experience, starting in May Google will be ranking
-          faster sites higher.
-        </p>
-        <p>
-          I'm baby 3 wolf moon gluten-free kinfolk hella subway tile butcher. Portland migas blog leggings helvetica
-          cronut copper mug. Celiac kitsch everyday carry direct trade cold-pressed lomo, health goth williamsburg
-          chicharrones austin. Coloring book pop-up distillery bitters, tumblr drinking vinegar 90's mustache tumeric
-          tattooed jianbing fixie.
+          <p>
+            Here’s some of my side projects I’ve built when I've trying to figure things out, please feel free to take a
+            look.
+          </p>
         </p>
       </IntroWrapper>
     </Wrapper>
