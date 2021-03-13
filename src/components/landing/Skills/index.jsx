@@ -15,7 +15,7 @@ export const Skills = () => {
           <img src={dev} alt="" />
         </Thumbnail>
         <Details theme={theme}>
-          <h1>5+ Years experience agency side and in-house</h1>
+          <h1>5+ Years experience</h1>
           <p>I’m currently looking for a new position</p>
 
           <Button as={AnchorLink} href="#contact">

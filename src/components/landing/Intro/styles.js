@@ -14,6 +14,12 @@ export const IntroWrapper = styled.div`
   display: flex;
   align-items: center;
   justify-content: space-between;
+  h3 {
+    color: #707070;
+    @media (max-width: 1200px) {
+      gap: 1rem;
+    }
+  }
 
   @media (max-width: 370px) {
     position: relative;
