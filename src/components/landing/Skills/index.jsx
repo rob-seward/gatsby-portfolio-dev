@@ -16,7 +16,8 @@ export const Skills = () => {
         </Thumbnail>
         <Details theme={theme}>
           <h1>5+ Years experience</h1>
-          <p>I’m currently looking for a new position</p>
+          <p>Currently looking for a new position</p>
+          <p>Understanding of business functions and strong knowledge of ecommerce and associated platforms</p>
 
           <Button as={AnchorLink} href="#contact">
             Message Me

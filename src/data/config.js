@@ -27,8 +27,8 @@ module.exports = {
     zipCode: 'ZipCode',
   },
   contact: {
-    email: 'email',
+    email: 'rob@robseward.io',
     phone: 'phone number',
   },
-  foundingDate: '2018',
+  foundingDate: '2021',
 };

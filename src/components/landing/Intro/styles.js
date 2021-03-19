@@ -13,12 +13,9 @@ export const IntroWrapper = styled.div`
   padding: 0rem 0;
   display: flex;
   align-items: center;
-  justify-content: space-between;
   h3 {
-    color: #707070;
-    @media (max-width: 1200px) {
-      gap: 1rem;
-    }
+    color: grey;
+    padding: 4rem;
   }
 
   @media (max-width: 370px) {
@@ -86,6 +83,7 @@ export const Details = styled.div`
 
     @media (max-width: 1000px) {
       padding-left: 6rem;
+      color: grey;
     }
   }
 
